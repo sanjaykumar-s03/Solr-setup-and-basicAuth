@@ -23,7 +23,7 @@ sudo apt install vim -y
 # Install sudo if not installed
 sudo apt install sudo -y
 
-2. Download and Install Apache Solr
+## 2. Download and Install Apache Solr
 
 Download Solr version 8.11.2 and extract it:
 
