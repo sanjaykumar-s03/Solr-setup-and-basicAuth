@@ -1,0 +1,1 @@
+# Solr-setup-and-basicAuth
